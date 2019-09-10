@@ -1,0 +1,6 @@
+dropSeqPipe
+data
+results
+.snakemake
+rsem
+*.nb.html
